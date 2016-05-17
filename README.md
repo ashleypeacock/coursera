@@ -1,5 +1,5 @@
 # coursera
-Contains notes on all coursea courses complete
+Contains notes on online courses complete in addition to books and notes. 
 
 Courses for 2016:
 
